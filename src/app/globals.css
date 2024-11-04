@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 }
+
+span{
+  color: rgb(66, 66, 251);
+  text-decoration: underline;
+  font-size:20px;
+  cursor: pointer;
+}
